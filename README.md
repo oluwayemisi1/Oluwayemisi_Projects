@@ -6,7 +6,7 @@ Compilation of my project as a Data analyst/Data scientist
 *	Analyzing and Cleaning of the data was done using python with the help of pandas and numpy
 *	The cleaned data was then visualized using both python(pandas, numpy, seasbon, matplotlib) and Power Bi
 
-# [PROJECT 2: SUPERMARKET ANALYSIS: Project Overview.](https://github.com/oluwayemisi1/Supermarket-Analysis)
+# [PROJECT 2: Supermarket Analysis: Project Overview.](https://github.com/oluwayemisi1/Supermarket-Analysis)
 * The project is to analyze the supermarket sales across different city and to provide valuable insights in order to understand the customers better.
 * The data used for this analysis was gotten from Kaggle. 
 * Python programming language was used.
