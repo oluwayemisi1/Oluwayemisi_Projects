@@ -11,7 +11,7 @@ Compilation of my project as a Data analyst/Data scientist
 * The data used for this analysis was gotten from Kaggle. 
 * Python programming language was used.
 
-# [PROJECT 3: Stroke Prediction: Project Overview.](https://github.com/oluwayemisi1/Stroke-Prediction-)
+# [PROJECT 3: Stroke Prediction: Project Overview.](https://github.com/oluwayemisi1/Milk-Quality-Prediction)
 * This project focused on developing predictive models to determine the likelihood of stroke occurring in the near future. The dataset was preprocessed and cleaned using Python in a Jupyter notebook environment. In addition, previous projects were reviewed to identify best practices and approaches to model development.
 * The data used for this analysis was gotten from Kaggle. 
 * Python programming language was used.
