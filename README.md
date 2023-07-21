@@ -17,6 +17,6 @@ Compilation of my project as a Data analyst/Data scientist
 * Python programming language was used.
 
 # [PROJECT 3: Milk Quality Prediction: Project Overview.](https://github.com/oluwayemisi1/Milk-Quality-Prediction)
-* This project aims to develop an advanced algorithm that accurately predicts milk quality based on factors such as PH, Temperature, Taste, Odor, Fat, Turbidity, Color and Grade. The remaining section provides a comprehensive overview of the project, including objectives, methodology, implementation details, and evaluation results.
+* This project aims to develop an advanced algorithm that accurately predicts milk quality based on factors such as PH, Temperature, Taste, Odor, Fat, Turbidity, Color and Grade.
 * The data used for this analysis was gotten from Kaggle. 
 * Python programming language was used.
