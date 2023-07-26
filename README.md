@@ -16,7 +16,12 @@ Compilation of my project as a Data analyst/Data scientist
 * The data used for this analysis was gotten from Kaggle. 
 * Python programming language was used.
 
-# [PROJECT 3: Milk Quality Prediction: Project Overview.](https://github.com/oluwayemisi1/Milk-Quality-Prediction)
+# [PROJECT 4: Milk Quality Prediction: Project Overview.](https://github.com/oluwayemisi1/Milk-Quality-Prediction)
 * This project aims to develop an advanced algorithm that accurately predicts milk quality based on factors such as PH, Temperature, Taste, Odor, Fat, Turbidity, Color and Grade.
+* The data used for this analysis was gotten from Kaggle. 
+* Python programming language was used.
+  
+# [PROJECT 5: Data Scienece Salary Prediction: Project Overview.](https://github.com/oluwayemisi1/Data-Science-Salaries-prediction)
+* This project focuses on predicting salaries for data science professionals using machine learning techniques to empower stakeholders with informed salary expectations and facilitate data-driven salary negotiations.
 * The data used for this analysis was gotten from Kaggle. 
 * Python programming language was used.
