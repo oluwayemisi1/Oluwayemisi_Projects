@@ -26,4 +26,4 @@ Compilation of my project as a Data analyst/Data scientist
 * The data used for this analysis was gotten from Kaggle. 
 * Python programming language was used.
 
-# [PROJECT 5: Heart Failure Analysis : Project Overview.](https://github.com/oluwayemisi1/Breast_Cancer_Analysis)
+# [PROJECT 5: Breast Cancer Prediction : Project Overview.](https://github.com/oluwayemisi1/Breast_Cancer_Analysis)
