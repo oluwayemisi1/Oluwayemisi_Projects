@@ -30,3 +30,7 @@ Compilation of my project as a Data analyst/Data scientist
 
 # [PROJECT 7: Future Jobs Market Prediction : Project Overview.](https://github.com/oluwayemisi1/Future_Jobs_Market_Prediction)
 
+# [PROJECT 7: Analysis on Student Performance and Stress : Project Overview.](https://github.com/oluwayemisi1/Analysis-on-Student-Performance-and-Stress)
+
+
+
